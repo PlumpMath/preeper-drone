@@ -1,0 +1,16 @@
+{
+  "name": "drone-repl",
+  "version": "0.0.1",
+  "description": "CLI REPL to control drone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "polyrhythm",
+  "license": "MIT",
+  "dependencies": {
+    "ar-drone": "~0.3.2",
+    "express": "^4.8.7",
+    "ws": "^0.4.32"
+  }
+}
